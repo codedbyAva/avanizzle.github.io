@@ -7,6 +7,9 @@ body{
     a {
       color: rgb(255,205,205);
     }
+    p {
+      padding: 10px;      
+    }
     h1 {
       font-size: 70px;
     }
