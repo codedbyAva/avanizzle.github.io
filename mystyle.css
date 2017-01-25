@@ -31,15 +31,10 @@ body{
         display: block;
       }
     article {
-      max-width: 300px;
-      padding: 10px;
+      max-width: 100px;
+      padding: 5px;
       margin: 0 auto;
     }
-    @media (max-width: 500px) {
-      h1 {
-        font-size: 36px;
-        padding: 5px;
-      }
       li {
         padding: 5px;
         display: block;
