@@ -1,11 +1,11 @@
 body{
       text-align: left;
-      background-color: rgb(170,199,249);
+      background-color: rgb(255,147,147);
       background-size: cover;
-      color: rgb(249,170,221);
+      color: rgb(135,48,48);
     }
     a {
-      color: rgb(122,217,244);
+      color: rgb(255,255,255);
     }
     p {
       padding: 0px 10px 0px 10px;      
