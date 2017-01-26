@@ -3,7 +3,6 @@ body{
       background-color: rgb(255,147,147);
       background-size: cover;
       color: rgb(135,48,48);
-      font-family: Georgia; 
     }
     a {
       color: rgb(255,255,255);
@@ -40,3 +39,6 @@ body{
         padding: 5px;
         display: block;
       }
+     table {
+     color:rgb(255,255,255);      
+    }
